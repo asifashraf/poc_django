@@ -53,3 +53,7 @@ https://docs.djangoproject.com/en/4.1/topics/install/#database-installation
 ## Postgres Setup
 
 https://docs.djangoproject.com/en/4.1/ref/databases/#postgresql-notes
+
+
+### checkpoint
+https://docs.djangoproject.com/en/4.1/intro/tutorial02/
