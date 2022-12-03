@@ -55,5 +55,8 @@ https://docs.djangoproject.com/en/4.1/topics/install/#database-installation
 https://docs.djangoproject.com/en/4.1/ref/databases/#postgresql-notes
 
 
+# Git
+Repo: https://github.com/asifashraf/poc_django 
+
 ### checkpoint
 https://docs.djangoproject.com/en/4.1/intro/tutorial02/
