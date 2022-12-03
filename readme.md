@@ -33,6 +33,12 @@
 - or ./cmd/run (has the same runserver command)
 - debug in pycharm docs/001-pycharm-debug
 
+# Create super user like
+
+$ python manage.py createsuperuser
+
+asif : asdf 
+
 # Optimizations
 
 - Watchman(Mac/Linux) ignore large directories for faster reload https://facebook.github.io/watchman/docs/config#ignore_dirs
