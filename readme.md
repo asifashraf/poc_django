@@ -8,6 +8,7 @@
 - python manage.py startapp polls
 - python manage.py migrate
 - python manage.py runserver 0.0.0.0:8000
+- debug in pycharm docs/001-pycharm-debug
 
 # Install as second developer / after git clone
 
@@ -17,6 +18,7 @@
 - $ pip install -r requirements.txt
 - python manage.py migrate
 - python manage.py runserver 0.0.0.0:8000
+- debug in pycharm docs/001-pycharm-debug
 
 # Debug and run commands in routine
 
@@ -26,6 +28,7 @@
 - python manage.py migrate
 - python manage.py runserver 0.0.0.0:8000
 - or ./cmd/run (has the same runserver command)
+- debug in pycharm docs/001-pycharm-debug
 
 # Optimizations
 

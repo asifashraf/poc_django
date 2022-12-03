@@ -8,3 +8,7 @@ urlpatterns = [
     path('polls/', include('polls.urls')),
     path('admin/', admin.site.urls),
 ]
+# path has four args
+'''
+route, view, kwargs, name
+'''
