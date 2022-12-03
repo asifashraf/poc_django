@@ -10,6 +10,9 @@
 - python manage.py runserver 0.0.0.0:8000
 - debug in pycharm docs/001-pycharm-debug
 
+## setup database
+
+
 # Install as second developer / after git clone
 
 - \# With python3.9+
