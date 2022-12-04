@@ -33,6 +33,11 @@
 - or ./cmd/run (has the same runserver command)
 - debug in pycharm docs/001-pycharm-debug
 
+# Test
+- Run command ./cmd/test.sh to test everything
+- Run command ./cmd/testApp.sh and pass-in the app name to test like $ ./testApp.sh polls
+- Debugging tests via pycharm ? See screenshots: /docs/0002 & /docs/0003 
+
 # Create super user like
 
 $ python manage.py createsuperuser
