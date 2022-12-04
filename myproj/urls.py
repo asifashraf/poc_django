@@ -6,6 +6,7 @@ You should always use include() when you include other URL patterns.
 admin.site.urls is the only exception to this.'''
 urlpatterns = [
     path('polls/', include('polls.urls')),
+    path('polls_generic/', include('polls_generic.urls')),
     path('admin/', admin.site.urls),
 ]
 # path has four args
