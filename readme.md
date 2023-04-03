@@ -1,5 +1,18 @@
 # Bootstrap as first developer / without clone
 
+# Install as second developer / after git clone
+
+- \# With python3.9+
+```sh
+python -m venv env
+source env/bin/activate
+pip install -r requirements.txt
+python manage.py migrate
+./shell/run-sync
+# debug in pycharm docs/001-pycharm-debug
+```
+
+
 - $ python -m venv env
 - $ source env/bin/activate
 - $ pip install -r requirements.txt(While having django in the requirements.txt)
@@ -13,15 +26,7 @@
 ## setup database
 
 
-# Install as second developer / after git clone
 
-- \# With python3.9+
-- $ python -m venv env
-- $ source env/bin/activate
-- $ pip install -r requirements.txt
-- python manage.py migrate
-- python manage.py runserver 0.0.0.0:8000
-- debug in pycharm docs/001-pycharm-debug
 
 # Debug and run commands in routine
 

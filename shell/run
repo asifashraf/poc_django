@@ -1,0 +1,4 @@
+#!/bin/sh
+
+cd ..
+nohup python manage.py runserver 0.0.0.0:8050 > log.txt 2>&1 &

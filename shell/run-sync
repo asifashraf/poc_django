@@ -1,0 +1,5 @@
+#!/bin/bash
+
+ps-kill-port 8050
+cd ..
+python manage.py runserver 0.0.0.0:8050
